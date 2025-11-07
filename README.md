@@ -31,7 +31,9 @@ require("formatterconfig").stylua.setup()
 
 ### Acknowledgements
 
-- [nvim-lspconfig]
+- [nvim-lspconfig] for the plugin structure
+- [nvimdev/guard.nvim] for the simple user config
 
 [nvim-lspconfig]:
 https://github.com/neovim/nvim-lspconfig/tree/4ea9083b6d3dff4ddc6da17c51334c3255b7eba5
+[nvimdev/guard.nvim]: https://github.com/nvimdev/guard.nvim
