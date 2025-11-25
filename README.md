@@ -29,6 +29,8 @@ Enable a particular formatter:
 require("formatterconfig").stylua.setup()
 ```
 
+using available formatter names (`:help conform-formatters`).
+
 ### Acknowledgements
 
 - [nvim-lspconfig] for the plugin structure
